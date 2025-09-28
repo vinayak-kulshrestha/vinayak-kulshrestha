@@ -75,16 +75,6 @@ const vinayak = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  
-### 💖 Support My Work
-
-If you like my projects, consider buying me a coffee! ☕
-
-[![](https://visitcount.itsvg.in/api?id=vinayak-kulshrestha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
 <br/>
 
 <div align="center">
