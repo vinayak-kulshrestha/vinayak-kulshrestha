@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnd6dmJqbGZvMTZkOHBheHpoeDQ1ajhpa2R2Y24wMHpsdzJoazQzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OPOIcmwa6Ew2A/giphy.gif" width="100%" alt="Space Background"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFiMG01Z3gzZXh3eDB5cnU1dWtubG8wMm42aXFzeTlyYTNjdnRtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.gif" width="100%" alt="Space Background"/>
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vinayak+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Let's+Build+Something+Amazing!" alt="Typing SVG" />
