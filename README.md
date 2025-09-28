@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: purple;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVnMDdpcDdybzh3Mnc1MHFsZXoxeG1qbWtrMmMwMDh5NXY0ZzZuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xoal3NeaZKX243CvH/giphy.gif" width="100%" alt="Space Background"/>
 </div>
 
