@@ -1,7 +1,8 @@
-<div align="center" style="background-color: purple;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVnMDdpcDdybzh3Mnc1MHFsZXoxeG1qbWtrMmMwMDh5NXY0ZzZuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xoal3NeaZKX243CvH/giphy.gif" width="100%" alt="Space Background"/>
+<div style="background-color: purple;">
+  <div align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVnMDdpcDdybzh3Mnc1MHFsZXoxeG1qbWtrMmMwMDh5NXY0ZzZuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xoal3NeaZKX243CvH/giphy.gif" width="100%" alt="Space Background"/>
+  </div>
 </div>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-kulshrestha-ab15b2317/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulshresthavinayak926@gmail.com) 
 
